@@ -1,3 +1,5 @@
+# Merged into https://github.com/filmor/ierl to ease development.
+
 [![Build Status](https://travis-ci.com/filmor/erlang-jupyter.svg?branch=master)](https://travis-ci.com/filmor/erlang-jupyter)
 
 # erlang-jupyter
